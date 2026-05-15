@@ -1,38 +1,78 @@
-Contributing
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Contributing</title>
+</head>
+<body>
 
-If you find something wrong or want to add another company please contribute with a pull request.
+<h1>Contributing</h1>
 
-Please make sure the following company details are provided:
+<p>
+If you find something wrong or want to add another company please <strong>contribute with a pull request</strong>.
+</p>
 
-Category;
-Name;
-Website (linked from the company's name);
-Careers website, if exists (linked from the :rocket:;
-Github account, or another git-repository manager account, if exists and contains at least one relevant and active repository (linked from the :octocat:);
-Very short description;
-List of Mozambican locations (which may contain Remote if the company allows remote work).
+<p>Please make sure the following company details are provided:</p>
 
-Below you can find an example of how to add a company:
+<ul>
+  <li>Category;</li>
+  <li>Name;</li>
+  <li>Website (linked from the company's name);</li>
+  <li>Careers website, if exists (linked from the :rocket:;</li>
+  <li>Github account, or another git-repository manager account, if exists and contains at least one relevant and active repository (linked from the :octocat:);</li>
+  <li>Very short description;</li>
+  <li>List of Mozambican locations (which may contain <code>Remote</code> if the company allows remote work).</li>
+</ul>
 
-Company	Description	Locations
-Example :rocket: :octocat:	Example revolutionises the way people write examples.	Example City
+<p>Below you can find an example of how to add a company:</p>
 
-Some additional things to keep in mind:
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Company</th>
+      <th>Description</th>
+      <th>Locations</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://example.com/">Example</a>
+        <a href="https://www.example.com/careers">🚀</a>
+        <a href="https://github.com/example">🐙</a>
+      </td>
+      <td>Example revolutionises the way people write examples.</td>
+      <td><code>Example City</code></td>
+    </tr>
+  </tbody>
+</table>
 
-The company must allow working in/from Mozambique;
-Fully remote companies might also fit here if either is true:
-Careers page explicitly mentions that the company hires remote people from MZ;
-There are Mozambican engineers already working remotely for said company.
-Listed offices must have development/tech jobs positions (e.g. a location with only HR functions should not be listed);
-Both links must be valid/working;
-Both links should be HTTPS, if available;
-Mailto links are not allowed;
-Referral links are not allowed;
-The description starts with uppercase, ends with a . period and fits in a single line (70 chars max);
-Locations must be enclosed in an inline code block (using with backtick quotes `) and separated by spaces;
-Locations should be separated by a <br> at least every 2 locations to keep the table column width under control;
-Both companies and locations are ordered alphabetically (except the special Remote location that must appear last);
-If a new category is required please provide an explanation in the commit message;
-If a company would fit in multiple categories, only the one category that fits best must be selected.
+<h2>Some additional things to keep in mind:</h2>
 
-Thanks for contributing!
+<ul>
+  <li>The company must allow working in/from Mozambique;</li>
+  <li>
+    Fully remote companies might also fit here if either is true:
+    <ul>
+      <li>Careers page explicitly mentions that the company hires remote people from MZ or Africa;</li>
+      <li>There are Mozambican engineers already working remotely for said company.</li>
+    </ul>
+  </li>
+  <li>Listed offices must have development/tech jobs positions (e.g. HR-only locations should not be listed);</li>
+  <li>Both links must be valid/working;</li>
+  <li>Both links should be HTTPS, if available;</li>
+  <li>Mailto links are not allowed;</li>
+  <li>Referral links are not allowed;</li>
+  <li>The description starts with uppercase, ends with a period and fits in a single line (70 chars max);</li>
+  <li>Locations must be written in Mozambican names (e.g. <code>Maputo</code> instead of Lisbon-style names);</li>
+  <li>Locations must be enclosed in inline code and separated by spaces;</li>
+  <li>Use &lt;br&gt; every 2 locations if multiple exist;</li>
+  <li>Companies and locations must be alphabetically ordered (Remote last);</li>
+  <li>If a new category is required, explain it in the commit message;</li>
+  <li>If a company fits multiple categories, choose only the best one.</li>
+</ul>
+
+<p><strong>Thanks for contributing!</strong> 🎉</p>
+
+</body>
+</html>
