@@ -27,7 +27,6 @@ Are you seeking a job? Click 🚀 to check the company's careers page.
 
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
-| [eMola](https://www.emola.co.mz/) | Mobile financial services platform. | `Maputo` |
 | [M-Pesa](https://www.vm.co.mz/m-pesa/) [🚀](https://careers.vodafone.com/local-market/mozambique/) | Mobile money platform by Vodacom Mozambique. | `Maputo` |
 | [Mukuru](https://www.mukuru.com/) [🚀](https://mukuru.com/careers/) | Financial services and money transfer platform. | `Maputo` |
 | [Paycode](https://paycode.co.za/) | Digital payment and biometric solutions. | `Maputo` |
@@ -50,7 +49,7 @@ Are you seeking a job? Click 🚀 to check the company's careers page.
 | Company | Description | Locations |
 | :------ | :---------- | :-------- |
 | [BCX](https://www.bcx.co.za/our-offices/mozambique/) | Enterprise software solutions and consulting. | `Maputo` |
-| [2M Business Solutions]([https://www.2mbusiness.co.mz/](https://2business-si.com/) | ERP and digital transformation solutions. | `Maputo` |
+| [2M Business Solutions](https://2business-si.com/) | ERP and digital transformation solutions. | `Maputo` |
 | [CIUEM](https://www.ciuem.mz/) | Research and software innovation center. | `Maputo` |
 | [Void](https://void.co.mz/) | Software development and digital solutions. | `Maputo` |
 | [MSYS](https://www.msys.co.mz/) | Enterprise software solutions and consulting. | `Maputo` |
@@ -92,7 +91,7 @@ Are you seeking a job? Click 🚀 to check the company's careers page.
 
 # Communities 🇲🇿
 
-- MozDevz
+- MozDevz 
 - GDG Maputo
 - GDSC UEM
 - PyMoz
