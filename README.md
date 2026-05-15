@@ -54,8 +54,6 @@ Are you seeking a job? Click 🚀 to check the company's careers page.
 | [CIUEM](https://www.ciuem.mz/) | Research and software innovation center. | `Maputo` |
 | [Void](https://void.co.mz/) | Software development and digital solutions. | `Maputo` |
 | [MSYS](https://www.msys.co.mz/) | Enterprise software solutions and consulting. | `Maputo` |
-
-
 | [UX Information Technologies](https://www.ux.co.mz/) | Software development and IT consulting. | `Maputo` |
 
 ---
